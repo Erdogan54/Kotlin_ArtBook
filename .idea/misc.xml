@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/90542/AndroidStudioProjects/Kotlin_ArtBook/app/src/main/res/layout/activity_add_art.xml" value="0.2427536231884058" />
+        <entry key="..\:/Users/90542/AndroidStudioProjects/Kotlin_ArtBook/app/src/main/res/layout/activity_list.xml" value="0.24010416666666667" />
+        <entry key="..\:/Users/90542/AndroidStudioProjects/Kotlin_ArtBook/app/src/main/res/layout/recycler_row.xml" value="0.2427536231884058" />
+        <entry key="..\:/Users/90542/AndroidStudioProjects/Kotlin_ArtBook/app/src/main/res/menu/add_art_menu.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
